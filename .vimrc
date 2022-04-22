@@ -1,5 +1,9 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Maintainer: 
+"       Derek Lopes
+"       https://github.com/dereklopes
+"
+" Original Maintainer: 
 "       Amir Salihefendic
 "       http://amix.dk - amix@amix.dk
 "
